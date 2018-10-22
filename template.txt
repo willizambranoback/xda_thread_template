@@ -11,9 +11,11 @@ use this as Thread Title : [KERNEL][Nougat /Oreo/Pie] Cerberus Kernel [Enter dev
 [CODE]
 #include
 /*
- * I'm not a developer, im taking effort to put more choices of kernel for our community.
+ * I'm not a developer, im taking effort to put more 
+ * choices of kernel for our community.
  * This kernel is tweaked for my own taste.
- * Please do not request for more features because i want to ensure the stability of the kernel first.
+ * Please do not request for more features because 
+ * i want to ensure the stability of the kernel first.
  * And thank you for using this kernel.
  */
 
@@ -26,19 +28,17 @@ use this as Thread Title : [KERNEL][Nougat /Oreo/Pie] Cerberus Kernel [Enter dev
  *
  */[/CODE]
 
-
-[SIZE="4"]
+[SIZE="4"][COLOR="Blue"]
+[B] [*] What is Cerberus Kernel?[/B][/SIZE][/COLOR]
 [LIST]
-[*][B] What is Cerberus Kernel?[/B]
-[LIST]
-[*] This is my new custom Kernel for the Motorola Moto G 2013 (falcon). 
+[COLOR="Black"][SIZE="3"][*] This is my new custom Kernel for the Motorola Moto G 2013 (falcon). 
 It's based off the LineageOS kernel sources and more custom code from some grand developers. 
 Bug reports and contributions are welcome.[/LIST]
-[/SIZE]
+[/SIZE][/COLOR]
 
 [IMG]graphics/features[/IMG]
 
-[B][SIZE="5"][COLOR="Blue"]# CPU Freq/Govs:[/COLOR][/SIZE][/B]
+[B][SIZE="4"][COLOR="Blue"]# CPU Freq/Govs:[/COLOR][/SIZE][/B]
 [HIDE][B][COLOR="Black"][SIZE="3"]
 * POWERSAVE
 * USERSPACE
@@ -61,14 +61,14 @@ Bug reports and contributions are welcome.[/LIST]
 * CERBERUS (interactive with some optimizations for balanced performance/battery life)
 [/SIZE][/COLOR][/B][/HIDE]
 
-[B][SIZE="5"][COLOR="Blue"]# CPU Hotplugs :[/COLOR][/SIZE][/B]
+[B][SIZE="4"][COLOR="Blue"]# CPU Hotplugs :[/COLOR][/SIZE][/B]
 [HIDE][B][COLOR="Black"][SIZE="3"]
 * MSM_Hotplug
 * BRICKED_Hotplug
 * AutoSMP_Hotplug
 [/SIZE][/COLOR][/B][/HIDE]
  
-[B][SIZE="5"][COLOR="Blue"]# IO Schedulers :[/COLOR][/SIZE][/B]
+[B][SIZE="4"][COLOR="Blue"]# IO Schedulers :[/COLOR][/SIZE][/B]
 [HIDE][B][COLOR="Black"][SIZE="3"]
 * NOOP
 * DEADLINE
@@ -83,7 +83,7 @@ Bug reports and contributions are welcome.[/LIST]
 * MAPLE
 [/SIZE][/COLOR][/B][/HIDE]
 
-[B][SIZE="5"][COLOR="Blue"]# Sound Controls :[/COLOR][/SIZE][/B]
+[B][SIZE="4"][COLOR="Blue"]# Sound Controls :[/COLOR][/SIZE][/B]
 [HIDE][B][COLOR="Black"][SIZE="3"]
 * Dolby-DAP Driver enable by default
 * Faux Sound Control v3.6
@@ -92,7 +92,7 @@ Bug reports and contributions are welcome.[/LIST]
 * Slimbus overclocked and 48khz freq support
 [/SIZE][/COLOR][/B][/HIDE]
 
-[B][SIZE="5"][COLOR="Blue"]# Others :[/COLOR][/SIZE][/B]
+[B][SIZE="4"][COLOR="Blue"]# Others :[/COLOR][/SIZE][/B]
 [HIDE][B][COLOR="Black"][SIZE="3"]
 * Selinux in permissive mode by default
 * Compiled with QUVNTNM 6.4 custom ToolChain
@@ -117,20 +117,21 @@ Bug reports and contributions are welcome.[/LIST]
 * Compatible with Kernel Adiutor, and others kernel tune apps
 [/SIZE][/COLOR][/B][/HIDE]
 
-[B]First time installing Custom kernel on your Moto G 2013?[/B]
-[LIST]
+[SIZE="4"][COLOR="Red"]
+[B][*] First time installing Custom kernel on your Moto G 2013?[/B][/SIZE][/COLOR]
+[COLOR="Black"][SIZE="3"]
 * Make sure your kernel is compatible with you rom (nougat, oreo, pie)
 * Reboot on TWRP recovery mode
 * Flash Cerberus kernel zip
 * Automatically a backup of your original kernel (boot.img) is made in the root of your internal memory, 
 in case of emergency or return to your original kernel install the backup img and ready.
 * Reboot
-[/LIST]
+[/SIZE][/COLOR]
 
-[SIZE=4] 
-[LIST]
-* [URL="LINK"]Descargar Cerberus Kernel[/URL]
+[B][SIZE="4"][COLOR="Blue"]# Download kernel :[/COLOR][/SIZE][/B]
+[HIDE][B][COLOR="Black"][SIZE="3"]
+[URL="LINK"]LINK[/URL]
+[/SIZE][/COLOR][/B][/HIDE]
 
-[B][I][COLOR="Blue"][URL="https://www.paypal.me/willizambrano"][COLOR="Teal"]If you love our work and want to help us? then click the button[/COLOR][/URL][/COLOR][/I][/B]:angel::angel:
-[URL="https://www.paypal.me/willizambrano"][IMG]Banner paypal[/IMG][/URL][/CENTER]
-
+[SIZE=5][CENTER][B][COLOR="Blue"][URL="https://www.paypal.me/willizambrano"][COLOR="Teal"]If you love our work and want to help us? then click the button[/COLOR][/URL][/COLOR][/B]:angel::angel:
+[URL="https://www.paypal.me/willizambrano"][IMG]Banner paypal[/IMG][/URL][/CENTER][/SIZE]
