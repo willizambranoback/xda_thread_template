@@ -1,0 +1,136 @@
+
+
+
+use this as Thread Title : [KERNEL][Nougat /Oreo/Pie] Cerberus Kernel [Enter device name here]
+
+
+--------------- XDA THREAD TEMPLATE -------------------------
+
+[CENTER][IMG]banner_images[/IMG][/CENTER]
+
+[CODE]
+#include
+/*
+ * I'm not a developer, im taking effort to put more choices of kernel for our community.
+ * This kernel is tweaked for my own taste.
+ * Please do not request for more features because i want to ensure the stability of the kernel first.
+ * And thank you for using this kernel.
+ */
+
+/*
+ * Your warranty is now void.
+ * We are not responsible for anything that may happen to your phone 
+ * by installing any custom ROMs and/or kernels. 
+ * You do it at your own risk and take the responsibility upon yourself
+ * and you are not to blame us or XDA and its developers.
+ *
+ */[/CODE]
+
+
+[SIZE="4"]
+[LIST]
+[*][B] What is Cerberus Kernel?[/B]
+[LIST]
+[*] This is my new custom Kernel for the Motorola Moto G 2013 (falcon). 
+It's based off the LineageOS kernel sources and more custom code from some grand developers. 
+Bug reports and contributions are welcome.[/LIST]
+[/SIZE]
+
+[IMG]graphics/features[/IMG]
+
+[B][SIZE="5"][COLOR="Blue"]# CPU Freq/Govs:[/COLOR][/SIZE][/B]
+[HIDE][B][COLOR="Black"][SIZE="3"]
+* POWERSAVE
+* USERSPACE
+* ONDEMAND
+* INTERACTIVE
+* CONSERVATIVE
+* BIOSHOCK
+* LIONHEART
+* SMARTMAX
+* YANKACTIVE
+* INTELLIDEMAND
+* INTELLIACTIVE
+* INTELLIMM
+* NIGHTMARE
+* BLU_ACTIVE
+* SMARTMAX_EPS
+* ALUCARD
+* WHEATLEY
+* ONDEMAND_PLUS
+* CERBERUS (interactive with some optimizations for balanced performance/battery life)
+[/SIZE][/COLOR][/B][/HIDE]
+
+[B][SIZE="5"][COLOR="Blue"]# CPU Hotplugs :[/COLOR][/SIZE][/B]
+[HIDE][B][COLOR="Black"][SIZE="3"]
+* MSM_Hotplug
+* BRICKED_Hotplug
+* AutoSMP_Hotplug
+[/SIZE][/COLOR][/B][/HIDE]
+ 
+[B][SIZE="5"][COLOR="Blue"]# IO Schedulers :[/COLOR][/SIZE][/B]
+[HIDE][B][COLOR="Black"][SIZE="3"]
+* NOOP
+* DEADLINE
+* ROW
+* CFQ
+* FIOPS
+* SIO (default)
+* SIOPLUS
+* BFQ
+* ZEN
+* VR
+* MAPLE
+[/SIZE][/COLOR][/B][/HIDE]
+
+[B][SIZE="5"][COLOR="Blue"]# Sound Controls :[/COLOR][/SIZE][/B]
+[HIDE][B][COLOR="Black"][SIZE="3"]
+* Dolby-DAP Driver enable by default
+* Faux Sound Control v3.6
+* High perf mode
+* Low Latency Driver mods
+* Slimbus overclocked and 48khz freq support
+[/SIZE][/COLOR][/B][/HIDE]
+
+[B][SIZE="5"][COLOR="Blue"]# Others :[/COLOR][/SIZE][/B]
+[HIDE][B][COLOR="Black"][SIZE="3"]
+* Selinux in permissive mode by default
+* Compiled with QUVNTNM 6.4 custom ToolChain
+* Add  optimized crypto SHA-256
+* Kernel mode NEON support
+* KCAL v2 screen color control
+* Reduce swappiness to 45
+* Disabled MMC CRC check
+* Optimized XZ kernel compression
+* Fast Charge v2
+* IntelliThermal by faux123
+* WQ_POWER_EFFICIENT
+* Enabled RWSEM__ALGORITHM
+* State Notifier Driver
+* Undervolt CPU freqs for power savings
+* GPU overclock 533mhz and underclock 100mhz
+* GPU kgsl_pwrctrl use min pwr level as default to reduce battery drain.
+* Added filesystem dynamic read-ahead (Credits to Chad Gooldman) 
+* Async I/O latency to a ssd greatly increased, 34% gain (Creds: kleikamp) 
+* Swappiness modified to 45
+* Fixed some memory leaks and much more improvements
+* Compatible with Kernel Adiutor, and others kernel tune apps
+[/SIZE][/COLOR][/B][/HIDE]
+
+[B]First time installing Custom kernel on your Moto G 2013?[/B]
+[LIST]
+* Make sure your kernel is compatible with you rom (nougat, oreo, pie)
+* Reboot on TWRP recovery mode
+* Flash Cerberus kernel zip
+* Automatically a backup of your original kernel (boot.img) is made in the root of your internal memory, 
+in case of emergency or return to your original kernel install the backup img and ready.
+* Reboot
+[/LIST]
+
+[SIZE=4] 
+[LIST]
+* [URL="LINK"]Descargar Cerberus Kernel[/URL]
+
+[B][I][COLOR="Blue"][URL="https://www.paypal.me/willizambrano"][COLOR="Teal"]If you love our work and want to help us? then click the button[/COLOR][/URL][/COLOR][/I][/B]:angel::angel:
+[URL="https://www.paypal.me/willizambrano"][IMG]Banner paypal[/IMG][/URL][/CENTER]
+
