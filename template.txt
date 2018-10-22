@@ -6,7 +6,7 @@ use this as Thread Title : [KERNEL][Nougat /Oreo/Pie] Cerberus Kernel [Enter dev
 
 --------------- XDA THREAD TEMPLATE -------------------------
 
-[CENTER][IMG]banner_images[/IMG][/CENTER]
+[CENTER][IMG]https://github.com/willizambranoback/xda_thread_template/raw/master/source/cerberus.png[/IMG][/CENTER]
 
 [CODE]
 #include
@@ -36,7 +36,7 @@ It's based off the LineageOS kernel sources and more custom code from some grand
 Bug reports and contributions are welcome.[/LIST]
 [/SIZE][/COLOR]
 
-[IMG]graphics/features[/IMG]
+[IMG]https://raw.githubusercontent.com/willizambranoback/xda_thread_template/master/source/features.jpg[/IMG]
 
 [B][SIZE="4"][COLOR="Blue"]# CPU Freq/Govs:[/COLOR][/SIZE][/B]
 [HIDE][B][COLOR="Black"][SIZE="3"]
@@ -134,4 +134,4 @@ in case of emergency or return to your original kernel install the backup img an
 [/SIZE][/COLOR][/B][/HIDE]
 
 [SIZE=5][CENTER][B][COLOR="Blue"][URL="https://www.paypal.me/willizambrano"][COLOR="Teal"]If you love our work and want to help us? then click the button[/COLOR][/URL][/COLOR][/B]:angel::angel:
-[URL="https://www.paypal.me/willizambrano"][IMG]Banner paypal[/IMG][/URL][/CENTER][/SIZE]
+[URL="https://www.paypal.me/willizambrano"][IMG]https://github.com/willizambranoback/xda_thread_template/raw/master/source/donateusplox.jpg[/IMG][/URL][/CENTER][/SIZE]
