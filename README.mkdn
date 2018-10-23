@@ -1,0 +1,5 @@
+![cerberus_generic_banner_git](https://github.com/willizambranoback/xda_thread_template/raw/master/source/cerberus.png)
+
+# XDA thread template
+
+This repository includes the template for making a Cerberus kernel thread on XDA.
