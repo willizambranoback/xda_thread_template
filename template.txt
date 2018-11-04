@@ -45,27 +45,18 @@ Bug reports and contributions are welcome.[/LIST]
 * ONDEMAND
 * INTERACTIVE
 * CONSERVATIVE
-* BIOSHOCK
 * LIONHEART
-* SMARTMAX
 * YANKACTIVE
 * INTELLIDEMAND
 * INTELLIACTIVE
 * INTELLIMM
-* NIGHTMARE
-* BLU_ACTIVE
-* SMARTMAX_EPS
 * ALUCARD
 * WHEATLEY
-* ONDEMAND_PLUS
-* CERBERUS (interactive with some optimizations for balanced performance/battery life)
 [/SIZE][/COLOR][/B][/HIDE]
 
 [B][SIZE="4"][COLOR="Blue"]# CPU Hotplugs :[/COLOR][/SIZE][/B]
 [HIDE][B][COLOR="Black"][SIZE="3"]
 * MSM_Hotplug
-* BRICKED_Hotplug
-* AutoSMP_Hotplug
 [/SIZE][/COLOR][/B][/HIDE]
  
 [B][SIZE="4"][COLOR="Blue"]# IO Schedulers :[/COLOR][/SIZE][/B]
@@ -96,22 +87,16 @@ Bug reports and contributions are welcome.[/LIST]
 [HIDE][B][COLOR="Black"][SIZE="3"]
 * Selinux in permissive mode by default
 * Compiled with QUVNTNM 6.4 custom ToolChain
-* Add  optimized crypto SHA-256
-* Kernel mode NEON support
-* KCAL v2 screen color control
+* DT2W/S2W/S2S features added and working :D
+* KCAL v2 color control
 * Reduce swappiness to 45
 * Disabled MMC CRC check
 * Optimized XZ kernel compression
 * Fast Charge v2
-* IntelliThermal by faux123
 * WQ_POWER_EFFICIENT
-* Enabled RWSEM__ALGORITHM
+* Enabled RWSEM_ALGORITHM
 * State Notifier Driver
-* Undervolt CPU freqs for power savings
-* GPU overclock 533mhz and underclock 100mhz
-* GPU kgsl_pwrctrl use min pwr level as default to reduce battery drain.
 * Added filesystem dynamic read-ahead (Credits to Chad Gooldman) 
-* Async I/O latency to a ssd greatly increased, 34% gain (Creds: kleikamp) 
 * Swappiness modified to 45
 * Fixed some memory leaks and much more improvements
 * Compatible with Kernel Adiutor, and others kernel tune apps
@@ -128,10 +113,22 @@ in case of emergency or return to your original kernel install the backup img an
 * Reboot
 [/SIZE][/COLOR]
 
+[SIZE="4"][COLOR="Red"]
+[B][*] Download your correct kernel version:[/B][/SIZE][/COLOR]
+[COLOR="Black"][SIZE="3"]
+* For marshmallow (6.0.1) and old 2017 nougat roms (7.1.x) 
+download the [B]cerberus_x.x_old_MM-N file[/B]
+
+* For latest 2018 nougat roms download the [B]cerberus_x.x_nougat file[/B]
+
+* For oreo and pie roms download the [B]cerberus_x.x_oreo_pie file[/B]
+[/SIZE][/COLOR]
+
 [B][SIZE="4"][COLOR="Blue"]# Download kernel :[/COLOR][/SIZE][/B]
 [HIDE][B][COLOR="Black"][SIZE="3"]
-[URL="LINK"]LINK[/URL]
+[URL="LINK"][COLOR="black"]Cerberus folder[/COLOR][/URL]
 [/SIZE][/COLOR][/B][/HIDE]
 
 [SIZE=5][CENTER][B][COLOR="Blue"][URL="https://www.paypal.me/willizambrano"][COLOR="Teal"]If you love our work and want to help us? then click the button[/COLOR][/URL][/COLOR][/B]:angel::angel:
 [URL="https://www.paypal.me/willizambrano"][IMG]https://github.com/willizambranoback/xda_thread_template/raw/master/source/donateusplox.jpg[/IMG][/URL][/CENTER][/SIZE]
+
